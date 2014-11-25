@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   @10upbot hangout me
+#   @bob hangout me
 #
 # Author:
 #   helen
