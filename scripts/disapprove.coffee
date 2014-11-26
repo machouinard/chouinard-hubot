@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   !hat
+#   !disapprove
 #
 # Author:
 #   zamoose
