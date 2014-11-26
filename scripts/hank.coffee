@@ -14,5 +14,6 @@
 #   machouinard
 
 module.exports = (robot) ->
+  console.log(robot)
   robot.respond /pang$/i, (msg) ->
     msg.send "pung"
