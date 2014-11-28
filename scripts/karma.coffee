@@ -24,11 +24,11 @@ class Karma
     @cache = {}
 
     @increment_responses = [
-      "+1!", "FTW!"
+      "+1!", "FTW!", "SCORE!"
     ]
 
     @decrement_responses = [
-      "BOO", "NO BUENO"
+      "BOO", "NO BUENO", "OUCH"
     ]
 
     @robot.brain.on 'loaded', =>
