@@ -1,4 +1,5 @@
 [
 	"redis-brain.coffee",
-	"botsnack.coffee"
+	"botsnack.coffee",
+    "hangman.coffee"
 ]
